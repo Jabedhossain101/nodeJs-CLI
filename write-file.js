@@ -13,7 +13,7 @@ try {
 
 // ----------------
 
-const content2 = ' this is a content too \n asynchronous';
+const content2 = ' this is a content too \n asynchronous add some another page';
 
 fs.writeFile('./data/output/test-async.txt', content2, (error) => {
   if (error) {

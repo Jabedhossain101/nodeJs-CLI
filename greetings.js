@@ -18,7 +18,7 @@ if (time < 12) {
 } else {
   greetings= 'good evening'
 }
-
+console.log(args);
 console.log(`${greetings} ${name}`);
 
 console.log(`${time} :${timeMinute} : ${timeSecond}`);
