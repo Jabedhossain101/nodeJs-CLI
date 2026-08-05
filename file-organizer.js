@@ -201,7 +201,7 @@ node index.js organize
 
 // -------------------- CLI --------------------
 
-const command = process.argv[2];
+/* const command = process.argv[2];
 
 switch (command) {
   case 'init':
@@ -215,3 +215,4 @@ switch (command) {
   default:
     showHelp();
 }
+ */
