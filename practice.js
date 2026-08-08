@@ -26,3 +26,5 @@ const content1 = `${new Date().toISOString()}, user is so sweet`;
 fs.appendFileSync('./data/output/app.log', content1);
 
 console.log('task complete');
+
+
